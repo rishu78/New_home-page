@@ -1,0 +1,81 @@
+.bnd {
+  width: 90%;
+  margin: 100px;
+  text-align: center;
+  padding: 10px;
+  padding-top: 150px;
+  padding-bottom: 10px;
+}
+.band {
+  width: 30%;
+  margin: 0 0 0 20px;
+  height: 250px;
+  display: inline-block;
+  vertical-align: middle;
+  background-color: blanchedalmond;
+}
+
+.crd {
+  width: 90%;
+  text-align: center;
+  margin: 100px;
+  margin-top: 20px;
+}
+.card {
+  width: 48%;
+  margin: 40px 0 0 0;
+  display: inline-block;
+  vertical-align: middle;
+  background-color: whitesmoke;
+}
+.caand {
+  width: 40%;
+  margin: 20px 0 0 0;
+  height: 180px;
+  display: inline-block;
+  vertical-align: middle;
+  background-color: whitesmoke;
+}
+
+.ast {
+  width: 90%;
+  text-align: left;
+}
+.aast {
+  width: 45%;
+  display: inline-block;
+  vertical-align: middle;
+}
+.qqq {
+  margin: 0 0 0 750px;
+  width: 30%;
+}
+
+.aast {
+  float: left;
+  margin-left: none;
+}
+
+.aast ul{
+  float: left;
+  margin-left: 25px;
+}
+
+.aast ul li{
+  list-style: none;
+  margin: 0 8px;
+  display: inline-block;
+  line-height: 0px;
+}
+
+.aast ul li a{
+  text-decoration: none;
+  color: honeydew;
+  font-size: 30px;
+  font-family: 'Roboto', sans-serif;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
