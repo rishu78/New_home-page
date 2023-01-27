@@ -79,3 +79,15 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+h2 {
+  font-style: italic;
+  font-size: x-large;
+  font-weight: bolder;
+}
+
+p {
+  font-style: italic;
+  font-size: medium;
+  font-weight: bold;
+}
