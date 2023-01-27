@@ -22,14 +22,14 @@
   margin-top: 20px;
 }
 .card {
-  width: 48%;
+  width: 50%;
   margin: 40px 0 0 0;
   display: inline-block;
   vertical-align: middle;
   background-color: whitesmoke;
 }
 .caand {
-  width: 40%;
+  width: 50%;
   margin: 20px 0 0 0;
   height: 180px;
   display: inline-block;
